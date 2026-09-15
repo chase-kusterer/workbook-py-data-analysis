@@ -8,6 +8,9 @@ Click the **Launch Binder** button above to get started. It may take a minute to
 <br><br>
 This is a set of interactive workbooks to accompany From Print to Prediction: A Beginner's Guide to Python for Data Analysis*.
 <br><br>
+__**Static Mode**__<br>
+Head to the <a href="https://github.com/chase-kusterer/workbook-py-data-analysis/">workbook repository</a> to experience the notebooks in static mode. Note that if you wish to download notebooks to experience them locally, it is highly recommended that you first set up environment.yml (available in the repository).
+<br><br>
 ## Table of Contents
 - Script 01 - User Input and Dynamic Printing<br>
 - Script 02 - The Essentials of Lists<br>
